@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>My Project Package</comment>
+<entry key="createdBy">shawetasharma93</entry>
+<entry key="name">claim-content</entry>
+<entry key="created">2015-10-21T11:45:04.134+0530</entry>
+<entry key="groupId">com.adobe.cq.sling</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">My Company</entry>
+<entry key="description">Maven Multimodule project for My Project.</entry>
+<entry key="artifactId">claim-content</entry>
+<entry key="path">/etc/packages/My Company/claim-content.zip</entry>
+</properties>
